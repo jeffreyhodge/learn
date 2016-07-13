@@ -1,0 +1,20 @@
+Input:
+  Purchase price
+  Money down % 20 default
+  number of units in property
+  rent per unit
+  % management fee 10 default
+
+Calculate:
+  Depreciation
+  Insurance
+  Repairs
+  Vacancy
+  Income taxes - Fed
+  Income taxes - CA
+  Property taxes
+  Tithing
+  Principal paid each month
+  Interest paid each month
+  Monthly profit
+  Current tax bill if sold

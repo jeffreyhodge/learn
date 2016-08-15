@@ -96,3 +96,10 @@ for property in rental_list:
 #11 interest
 #12 loan years
 ####
+####
+#to get total profit:
+#subtract tithing, mgmnt fee, insurance, 
+# vacancy, property tax, income tax, hoa fee
+#to get tax upon sale:
+#capital gains percentage is multiplied against current sale price 
+# minus cost basis which is original purchase price minus depreciation
